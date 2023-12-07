@@ -31,6 +31,8 @@ menu:
 
 <!-- ... -->
 
+{{% join-event  class="primary" %}}
+
 {{< youtube-section link="?list=PL7cPkcGlrwyrSXw9JJTlyVmbEcw5smCmP" title="Watch KCD Spain 2022" class="" >}}
 
 <!-- ... -->
@@ -42,12 +44,6 @@ menu:
 -->
 
 {{% home-info what="Sessions: 10, Parallel Tracks: 2" class="primary" %}}
-
-<!--
-
-{{% join-event  class="primary" %}}
-
--->
 
 <!-- ... -->
 
