@@ -215,3 +215,16 @@
       name: Github
     - link: https://community.cncf.io/u/my68j5/
       name: CNCF
+
+- title: Paco Bernabe
+  company: Freelance
+  subtitle: Cloud Native Engineer
+  type: content
+  key: paco_bernabe
+  socials:
+    - link: https://www.linkedin.com/in/pacobernab%C3%A9/
+      name: LinkedIn
+    - link: https://github.com/Paken
+      name: Github
+    - link: https://community.cncf.io/u/m2u3qt
+      name: CNCF
