@@ -1,6 +1,6 @@
-baseURL = "https://kcdspain.com/"
+baseURL = "https://cloudnativos.es/"
 languageCode = "en-gb"
-title = "Kubernetes Community Days Spain 2023"
+title = "Cloud Native Days Spain 2025"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -12,14 +12,14 @@ enableMissingTranslationPlaceholders = true
 
 [params]
     title = "#3 Virtual Kubernetes Community Days"
-    date = "December 12th and 13th, 2023"
+    date = "December 12th and 13th, 2025"
     description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto la tecnología como a ti."
-    images = ["/images/featured/kcdspain-featured-01.png"]
-    email = " hello@kcdspain.com"
-    keywords = "event, kcd, spain, kubernetes, google, cloud"
-    copyright = "Organized with ❤️  by KCD Spain."
-    cfpUrl = "https://go.kcdspain.com/cfp"
-    joinURL = "https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/"
+    images = ["/images/featured/cloudnativos-featured-01.png"]
+    email = " hello@cloudnativos.es"
+    keywords = "event, cloudnative, spain, kubernetes, google, cloud"
+    copyright = "Organized with ❤️  by Cloud Nativos Spain."
+    cfpUrl = "https://go.cloudnativos.es/cfp" # TODO
+    joinURL = "https://community.cncf.io/events/details/cloudnativos-spain-presents-cloudnativos-spain-2025/" # TODO
     appleTouchIcon = "/apple-icon.png"
     favicon32 = "/images/logos/favicon-32x32.ico"
     favicon16 = "/images/logos/favicon-16x16.ico"
@@ -28,21 +28,21 @@ enableMissingTranslationPlaceholders = true
     themeColor = "#0000ff"
 
 [params.logos]
-    jumbo = "/images/logos/KCD-logo-white.png"
-    header = "/images/logos/KCD-logo-comp.png"
-    footer = "/images/logos/KCD-logo-white.png"
+    jumbo = "/images/logos/cloudnativos-logo-white.png"
+    header = "/images/logos/cloudnativos-logo-comp.png"
+    footer = "/images/logos/cloudnativos-logo-white.png"
 
 [menu]
 [[menu.main]]
     identifier = "schedule"
     name = "menu_main_schedule"
-    url = "https://agenda.kcdspain.com/"
+    url = "https://agenda.cloudnativos.es/" # TODO
     weight = 200
     external = true
 # [[menu.main]]
 #     identifier = "cfp"
 #     name = "CFP"
-#     url = "https://go.kcdspain.com/cfp"
+#     url = "https://go.cloudnativos.es/cfp" # TODO
 #     weight = 190
 #     external = true
 
