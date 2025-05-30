@@ -10,7 +10,7 @@ menu:
 
 <!-- ... -->
 
-{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="CloudNativos" joinEvent="no" %}}
+{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" joinEvent="no" %}}
 
 <!--
 
@@ -18,7 +18,7 @@ menu:
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="https://go.cloudnativos.es/cfp"
+                url="https://go.kcdspain.com/cfp"
                 icon="cfp" >}}
 
 {{< button-link label="See all speakers"
@@ -33,7 +33,7 @@ menu:
 
 {{% join-event  class="primary" %}}
 
-{{< youtube-section link="XRRZR_Si764?si=_JI8EKzPjIhhMOW_" title="Watch KCD Spain and Cloud Nativos" class="" >}}
+{{< youtube-section link="?list=PL7cPkcGlrwyrSXw9JJTlyVmbEcw5smCmP" title="Watch KCD Spain 2022" class="" >}}
 
 <!-- ... -->
 
