@@ -11,7 +11,7 @@ draft: false
 
 {{% hero %}}
 
-Kubernetes Community Days (KCDs) are community-organized events that gather adopters and technologists from open source and cloud native communities for education, collaboration, and networking. KCDs are supported by the Cloud Native Computing Foundation (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community.
+Cloud Native Days are community-organized events that gather adopters and technologists from open source and cloud native communities for education, collaboration, and networking. Cloud Native Days are supported by the Cloud Native Computing Foundation (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community.
 
 To make all this possible, an awesome team of volunteers is working behind the scenes.
 

@@ -1,20 +1,20 @@
 share:
   - name: twitter
-    URL: https://kcdspain.com
+    URL: https://cloudnativos.es
 
 follow:
   - name: twitter
-    url: https://twitter.com/kcdspain
+    url: https://twitter.com/cloudnativos # TODO
   - name: linkedin
-    url: https://www.linkedin.com/company/kcdspain/
+    url: https://www.linkedin.com/company/cloudnativos/ # TODO
   - name: youtube
     url: https://www.youtube.com/channel/UC2666lycS6cx5a8KL_hBhKA
 
 content:
   - title: footer_about
     links:
-      - name: KCD Spain
-        url: https://kcdspain.com/
+      - name: Cloud Native Spain
+        url: https://cloudnativos.es/
         newTab: true
       - name: Cloud Native Computing Foundation
         url: https://cncf.io/
@@ -25,6 +25,10 @@ content:
 
   - title: footer_previous_edition
     links:
+      - name: KCD Barcelona 2024
+        url: https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-barcelona-2024/
+      - name: KCD Spain 2023
+        url: https://2023.kcdspain.com/
       - name: KCD Spain 2022
         url: https://2022.kcdspain.com/
         newTab: true
